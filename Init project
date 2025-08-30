@@ -1,0 +1,3 @@
+mkdir wa-broadcast && cd wa-broadcast
+npm init -y
+npm i axios csv-parse dotenv p-limit
